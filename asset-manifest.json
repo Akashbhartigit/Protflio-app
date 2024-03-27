@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Protflio-app./static/css/main.6a6c08b1.css",
+    "main.js": "/Protflio-app./static/js/main.82fd9f9d.js",
+    "index.html": "/Protflio-app./index.html",
+    "main.6a6c08b1.css.map": "/Protflio-app./static/css/main.6a6c08b1.css.map",
+    "main.82fd9f9d.js.map": "/Protflio-app./static/js/main.82fd9f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a6c08b1.css",
+    "static/js/main.82fd9f9d.js"
+  ]
+}
